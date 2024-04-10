@@ -1,4 +1,6 @@
+
 .container {
+  font-family: "Prompt";
   display: grid;
   background-position: center;
   background-repeat: no-repeat;
